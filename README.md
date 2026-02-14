@@ -38,7 +38,7 @@ Demonstra desacoplamento, ServiceLoader e encapsulamento entre módulos.
 
 ---
 
-## 🎓 Portfólio de Certificados
+## 🎓 [Portfólio de Certificados](https://github.com/amonvix/certificates)
 
 Repositório de certificados e trilhas de estudo organizadas por tema.  
 Demonstra aprendizado contínuo e evolução técnica.
